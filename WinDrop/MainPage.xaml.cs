@@ -9,16 +9,15 @@
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void OnSendClicked(object sender, EventArgs e)
         {
-            count++;
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+                FileSendBtn.Text = "Sending Files...";
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+            //hier jetzt code starten zum senden der ausgewählten datein zu dem ausgewählten gerät 
+
+
+            SemanticScreenReader.Announce(FileSendBtn.Text);
         }
     }
 

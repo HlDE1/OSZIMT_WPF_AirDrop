@@ -142,11 +142,6 @@ C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
-C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
-C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
-C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
-C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
-C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\WinDrop.AssemblyInfoInputs.cache
@@ -175,3 +170,5 @@ C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\WinDrop.sourcelink.json
+C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wdlogo.scale-100.png

@@ -5,10 +5,10 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:WinDrop"
     Shell.FlyoutBehavior="Disabled"
-    Title="WinDrop">
+    Title="WinDrop v0.0.1 by Temesgen, Baran, Luis">
 
     <ShellContent
-        Title="Home"
+        Title="WinDrop v0.0.1"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 

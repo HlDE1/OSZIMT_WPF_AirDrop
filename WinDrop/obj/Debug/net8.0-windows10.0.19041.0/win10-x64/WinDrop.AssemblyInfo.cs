@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinDrop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fbaab7d92569aa5896a1a218bb1af0c1de8c4abd")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinDrop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinDrop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

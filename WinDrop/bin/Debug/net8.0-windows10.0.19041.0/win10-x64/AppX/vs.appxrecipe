@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-18T07:51:48.722</Modified>
+      <Modified>2024-09-18T08:17:44.543</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-18T07:51:48.476</Modified>
+      <Modified>2024-09-18T08:17:44.339</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinDrop.runtimeconfig.json">
       <PackagePath>WinDrop.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinDrop.dll">
       <PackagePath>WinDrop.dll</PackagePath>
-      <Modified>2024-09-18T07:51:47.156</Modified>
+      <Modified>2024-09-18T08:17:43.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>WinDrop.exe</PackagePath>
-      <Modified>2024-09-18T07:51:47.169</Modified>
+      <Modified>2024-09-18T08:17:43.252</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -84,211 +84,195 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-09-18T07:49:53.964</Modified>
+      <Modified>2024-09-18T08:17:36.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.955</Modified>
+      <Modified>2024-09-18T08:17:36.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.955</Modified>
+      <Modified>2024-09-18T08:17:36.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.955</Modified>
+      <Modified>2024-09-18T08:17:36.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.954</Modified>
+      <Modified>2024-09-18T08:17:36.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.954</Modified>
+      <Modified>2024-09-18T08:17:36.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.961</Modified>
+      <Modified>2024-09-18T08:17:36.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.960</Modified>
+      <Modified>2024-09-18T08:17:36.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.960</Modified>
+      <Modified>2024-09-18T08:17:36.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.960</Modified>
+      <Modified>2024-09-18T08:17:36.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.960</Modified>
+      <Modified>2024-09-18T08:17:36.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.962</Modified>
+      <Modified>2024-09-18T08:17:36.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.961</Modified>
+      <Modified>2024-09-18T08:17:36.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.961</Modified>
+      <Modified>2024-09-18T08:17:36.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.961</Modified>
+      <Modified>2024-09-18T08:17:36.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.961</Modified>
+      <Modified>2024-09-18T08:17:36.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.964</Modified>
+      <Modified>2024-09-18T08:17:36.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.963</Modified>
+      <Modified>2024-09-18T08:17:36.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.963</Modified>
+      <Modified>2024-09-18T08:17:36.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.963</Modified>
+      <Modified>2024-09-18T08:17:36.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.963</Modified>
+      <Modified>2024-09-18T08:17:36.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.963</Modified>
+      <Modified>2024-09-18T08:17:36.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.962</Modified>
+      <Modified>2024-09-18T08:17:36.486</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.962</Modified>
+      <Modified>2024-09-18T08:17:36.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.962</Modified>
+      <Modified>2024-09-18T08:17:36.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.962</Modified>
+      <Modified>2024-09-18T08:17:36.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.957</Modified>
+      <Modified>2024-09-18T08:17:36.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.957</Modified>
+      <Modified>2024-09-18T08:17:36.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.957</Modified>
+      <Modified>2024-09-18T08:17:36.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.957</Modified>
+      <Modified>2024-09-18T08:17:36.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.956</Modified>
+      <Modified>2024-09-18T08:17:36.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.958</Modified>
+      <Modified>2024-09-18T08:17:36.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.958</Modified>
+      <Modified>2024-09-18T08:17:36.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.958</Modified>
+      <Modified>2024-09-18T08:17:36.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.958</Modified>
+      <Modified>2024-09-18T08:17:36.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.958</Modified>
+      <Modified>2024-09-18T08:17:36.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.959</Modified>
+      <Modified>2024-09-18T08:17:36.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.959</Modified>
+      <Modified>2024-09-18T08:17:36.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.959</Modified>
+      <Modified>2024-09-18T08:17:36.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.959</Modified>
+      <Modified>2024-09-18T08:17:36.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.959</Modified>
+      <Modified>2024-09-18T08:17:36.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.956</Modified>
+      <Modified>2024-09-18T08:17:36.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.956</Modified>
+      <Modified>2024-09-18T08:17:36.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.956</Modified>
+      <Modified>2024-09-18T08:17:36.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.956</Modified>
+      <Modified>2024-09-18T08:17:36.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.955</Modified>
+      <Modified>2024-09-18T08:17:36.477</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.965</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.965</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.965</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.964</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-09-18T07:49:53.964</Modified>
+    <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wdlogo.scale-100.png">
+      <PackagePath>wdlogo.scale-100.png</PackagePath>
+      <Modified>2024-09-18T08:17:36.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\source\repos\WinDrop\WinDrop\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinDrop.deps.json">
       <PackagePath>WinDrop.deps.json</PackagePath>
-      <Modified>2024-09-18T07:51:48.008</Modified>
+      <Modified>2024-09-18T08:17:44.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lbeuger\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
