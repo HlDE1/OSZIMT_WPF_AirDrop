@@ -3,6 +3,7 @@ using Android.Bluetooth;
 using Android.Runtime;
 using Plugin.BLE;
 using Plugin.BLE.Abstractions.Contracts;
+using Plugin.BLE.Abstractions.Extensions;
 using System.Diagnostics;
 using WinDropApp.Platforms.Android.Services;
 using WinDropApp.Resources.Interfaces;
@@ -27,7 +28,6 @@ namespace WinDropApp
             base.OnCreate();
 
             Debug.WriteLine("Android application starting...");
-            PermissionHelper.RequestBluetoothAndGpsPermissions();
             InitializeBluetooth();
         }
 
@@ -35,7 +35,6 @@ namespace WinDropApp
         {
             try
             {
-                //TODO: ask for permission
 
                 IBluetoothLE ble = CrossBluetoothLE.Current;
                 IAdapter adapter = CrossBluetoothLE.Current.Adapter;
@@ -81,6 +80,8 @@ namespace WinDropApp
 
                 Debug.WriteLine("Bluetooth: Starting scanning for devices...");
                 await adapter.StartScanningForDevicesAsync();
+
+               //await adapter.ConnectToDeviceAsync();
                 Debug.WriteLine("Bluetooth: Scanning started.");
             }
             catch (Exception ex)
