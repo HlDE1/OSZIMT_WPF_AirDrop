@@ -11,7 +11,7 @@ namespace WinDropApp.Platforms.Android.Services
         public static async void RequestBluetoothAndGpsPermissions()
         {
 
-            var bluetoothStatus = await Permissions.CheckStatusAsync<Permissions.Bluetooth>();
+            PermissionStatus bluetoothStatus = await Permissions.CheckStatusAsync<Permissions.Bluetooth>();
             if (bluetoothStatus != PermissionStatus.Granted)
             {
                 bluetoothStatus = await Permissions.RequestAsync<Permissions.Bluetooth>();
@@ -28,7 +28,7 @@ namespace WinDropApp.Platforms.Android.Services
 
 
             // Request  (GPS) permissions
-            var locationStatus = await Permissions.CheckStatusAsync<Permissions.LocationWhenInUse>();
+            PermissionStatus locationStatus = await Permissions.CheckStatusAsync<Permissions.LocationWhenInUse>();
             if (locationStatus != PermissionStatus.Granted)
             {
                 locationStatus = await Permissions.RequestAsync<Permissions.LocationWhenInUse>();

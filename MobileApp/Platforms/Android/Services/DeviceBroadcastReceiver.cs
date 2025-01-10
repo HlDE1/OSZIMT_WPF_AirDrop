@@ -36,8 +36,5 @@ namespace WinDropApp.Platforms.Android.Services
 
             }
         }
-   
-
-    
     }
 }
